@@ -1,0 +1,15 @@
+MAIN "www.xkeeper.com"
+api.xkeeper.com
+admin.xkeeper.com
+dev.xkeeper.com
+test.xkeeper.com
+staging.xkeeper.com
+mail.xkeeper.com
+vpn.xkeeper.com
+cdn.xkeeper.com
+img.xkeeper.com
+static.xkeeper.com
+app.xkeeper.com
+m.xkeeper.com
+school.xkeeper.com
+public.xkeeper.com
